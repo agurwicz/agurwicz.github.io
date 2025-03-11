@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Talks & Teaching"
 permalink: /talks_teaching/
 author_profile: true
 ---
@@ -18,11 +18,11 @@ author_profile: true
 
 ## Teaching
 
-- Grader for PETE 656, "Advanced Numerical Methods for Reservoir Simulation".
+- Grader for PETE 656, "Advanced Numerical Methods for Reservoir Simulation"
   - TAMU, Spring 2025.
 
-- "Introduction to Git and GitHub" workshop for Petroleum Engineering graduate students.
+- "Introduction to Git and GitHub" workshop for Petroleum Engineering graduate students
   - TAMU, December 2024.
 
-- "Git and GitHub for Portfolio Creation" course in the "Business Intelligence Master" extension program.
+- "Git and GitHub for Portfolio Creation" course in the "Business Intelligence Master" extension program
   - PUC-Rio, 2020 - 2021.
