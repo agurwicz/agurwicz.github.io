@@ -5,7 +5,7 @@ title_separator : "-"
 name            : &name "Allan Gurwicz"
 url             : https://agurwicz.github.io
 baseurl         : ""
-repository      : "academicpages/academicpages.github.io"
+repository      : "agurwicz/agurwicz.github.io"
 
 author:
   avatar        : "profile.jpeg"
@@ -89,9 +89,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4"
   google:
-    tracking_id          :
+    tracking_id          : "G-5LT3QD2Y9C"
 
 
 # Reading Files
