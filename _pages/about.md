@@ -9,7 +9,7 @@ redirect_from:
 
 ### Howdy!
 <br />
-I'm a fourth-year Ph.D. student at Texas A&M, advised by Drs. [David Huckleberry Gutman](https://engineering.tamu.edu/industrial/profiles/gutman-david.html) in ISEN and [Eduardo Gildin](https://engineering.tamu.edu/petroleum/profiles/egildin.html) in PETE. 
+I'm a fifth-year Ph.D. student at Texas A&M, advised by Drs. [David Huckleberry Gutman](https://engineering.tamu.edu/industrial/profiles/gutman-david.html) in ISEN and [Eduardo Gildin](https://engineering.tamu.edu/petroleum/profiles/egildin.html) in PETE. 
 
 My research focus lies on the use of machine learning for reservoir simulation and optimization.
 I'm currently investigating the novel use of survival analysis towards interpretable surrogates, constructed with shortened and thus cheaper reservoir simulations.

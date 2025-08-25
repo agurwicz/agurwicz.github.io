@@ -20,6 +20,12 @@ Filed March 2023 and published September 2024. Pending.
 
 ## Proceedings
 
+### Advancing Surrogate Modeling For CO<sub>2</sub> Storage Risk Through Cutting-edge Survival Analysis-driven AI
+Accepted to International Petroleum Technology Conference (IPTC) Summit on AI for the Energy Industry, 2026.
+
+### Transient Dynamics Simulation Platform For PDC, Roller Cone, And Hybrid Bits Utilizing Discrete Geometry
+Accepted to Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC), 2025.
+
 ### [Assessing Risk In Long-term CO<sub>2</sub> Storage Under Uncertainty Via Survival Analysis-based Surrogates](https://doi.org/10.2118/220737-MS)
 SPE Annual Technical Conference and Exhibition (ATCE), 2024.
 
