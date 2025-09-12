@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-### Howdy!
 <br />
-I'm a fifth-year Ph.D. student at Texas A&M, advised by Drs. [Eduardo Gildin](https://engineering.tamu.edu/petroleum/profiles/egildin.html) in PETE and [David Huckleberry Gutman](https://engineering.tamu.edu/industrial/profiles/gutman-david.html) in ISEN.
+I'm a fifth-year Ph.D. student at Texas A&M, advised by Drs. [David Huckleberry Gutman](https://engineering.tamu.edu/industrial/profiles/gutman-david.html) in ISEN and [Eduardo Gildin](https://engineering.tamu.edu/petroleum/profiles/egildin.html) in PETE.
 
 My research centers on interpretable machine learning and surrogate modeling for safe and efficient subsurface energy decision-making.
 I focus on uncertainty quantification and risk assessment, with demonstrated applications from reservoir engineering to geological CO<sub>2</sub> storage.
