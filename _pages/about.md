@@ -15,6 +15,3 @@ I focus on uncertainty quantification and risk assessment, with demonstrated app
 
 My latest work was recently published in [SPE Journal](https://doi.org/10.2118/220737-PA).
     My research has been features in venues such as [ATCE](https://doi.org/10.2118/220737-MS), [OTC Brasil](https://doi.org/10.4043/29861-MS) and [ICAISC](https://doi.org/10.1007/978-3-030-20912-4_7), with upcoming contributions accepted to [IPTC](https://www.iptcnet.org/technical-program/ai-for-environmental-sustainability-and-ccus-ii) and [ADIPEC](https://www.adipec.com/conferences/technical-conference-programme).
-
-Feel free to [reach out](mailto:agurwicz@tamu.edu) for collaborations or opportunities!
-My complete CV is available in the [*Full CV* page](full_cv).
