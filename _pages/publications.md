@@ -12,6 +12,9 @@ SPE Journal, 2025.
 
 ## Conference Papers
 
+[**Survival Analysis-powered AI In Risk-aware Data-driven Multi-objective Optimization For Geological CO<sub>2</sub> Storage**](https://www.spe-events.org/LACPEC).
+Accepted to SPE Latin American and Caribbean Petroleum Engineering Conference (LACPEC), 2026.
+
 [**Advancing Surrogate Modeling For CO<sub>2</sub> Storage Risk Through Cutting-edge Survival Analysis-driven AI**](https://www.iptcnet.org/technical-program/ai-for-environmental-sustainability-and-ccus-ii).
 Accepted to International Petroleum Technology Conference (IPTC) Summit on AI for the Energy Industry, 2026.
 

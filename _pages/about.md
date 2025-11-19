@@ -14,4 +14,4 @@ My research centers on interpretable machine learning and surrogate modeling for
 I focus on uncertainty quantification and risk assessment, with demonstrated applications from reservoir engineering to geological CO<sub>2</sub> storage.
 
 My latest work was recently published in [SPE Journal](https://doi.org/10.2118/220737-PA).
-    My research has been features in venues such as [ATCE](https://doi.org/10.2118/220737-MS), [ADIPEC](https://doi.org/10.2118/228999-MS), [OTC Brasil](https://doi.org/10.4043/29861-MS) and [ICAISC](https://doi.org/10.1007/978-3-030-20912-4_7), with upcoming contributions accepted to [IPTC](https://www.iptcnet.org/technical-program/ai-for-environmental-sustainability-and-ccus-ii).
+My research has been features in venues such as [ATCE](https://doi.org/10.2118/220737-MS), [ADIPEC](https://doi.org/10.2118/228999-MS), [OTC Brasil](https://doi.org/10.4043/29861-MS) and [ICAISC](https://doi.org/10.1007/978-3-030-20912-4_7), with upcoming contributions accepted to [IPTC](https://www.iptcnet.org/technical-program/ai-for-environmental-sustainability-and-ccus-ii) and [LACPEC](https://www.spe-events.org/LACPEC).
