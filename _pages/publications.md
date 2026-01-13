@@ -12,11 +12,11 @@ SPE Journal, 2025.
 
 ## Conference Papers
 
-[**Survival Analysis-powered AI In Risk-aware Data-driven Multi-objective Optimization For Geological CO<sub>2</sub> Storage**](https://www.spe-events.org/LACPEC).
+[**Survival Analysis-powered AI In Risk-aware Data-driven Multi-objective Optimization For Geological CO<sub>2</sub> Storage**](https://www.spe-events.org/LACPEC/2026-technical-program/carbon-capture-and-energy-solutions-session-ii).
 Accepted to SPE Latin American and Caribbean Petroleum Engineering Conference (LACPEC), 2026.
 
-[**Advancing Surrogate Modeling For CO<sub>2</sub> Storage Risk Through Cutting-edge Survival Analysis-driven AI**](https://www.iptcnet.org/technical-program/ai-for-environmental-sustainability-and-ccus-ii).
-Accepted to International Petroleum Technology Conference (IPTC) Summit on AI for the Energy Industry, 2026.
+[**Advancing Surrogate Modeling For CO<sub>2</sub> Storage Risk Through Cutting-edge Survival Analysis-driven AI**](https://doi.org/10.2523/IPTC-25222-MS).
+International Petroleum Technology Conference (IPTC) Summit on AI for the Energy Industry, 2026.
 
 [**Transient Dynamics Simulation Platform For PDC, Roller Cone, And Hybrid Bits Utilizing Discrete Geometry**](https://doi.org/10.2118/228999-MS).
 Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC), 2025.
